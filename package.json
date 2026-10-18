@@ -1,0 +1,25 @@
+{
+  "name": "ticket-bot-lite",
+  "version": "1.0.0",
+  "description": "A small Discord ticket bot for a single server with local file storage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "discord.js",
+    "tickets",
+    "ticket-bot"
+  ],
+  "author": "og7oo (Enzocord)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.4.5"
+  }
+}
